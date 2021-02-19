@@ -22,7 +22,7 @@ namespace ASPNET_POC.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page. is here";
+            ViewBag.Message = "Your contact page is here.....";
 
             return View();
         }
