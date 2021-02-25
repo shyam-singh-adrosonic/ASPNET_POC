@@ -10,11 +10,11 @@
     <form id="form1" runat="server">
         <div>
 
-            <asp:Label ID="Label1" runat="server" Text="FirstName"></asp:Label>
+            <asp:Label ID="Label1" runat="server" Text="Enter First Name"></asp:Label>
             <asp:TextBox ID="TextBox1" runat="server" OnTextChanged="TextBox1_TextChanged"></asp:TextBox>
             <br />
             <br />
-            <asp:Label ID="Label2" runat="server" Text="Last Name"></asp:Label>
+            <asp:Label ID="Label2" runat="server" Text="Enter Last Name"></asp:Label>
             <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
             <br />
             <br />
